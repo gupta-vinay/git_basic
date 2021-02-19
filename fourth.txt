@@ -1,3 +1,8 @@
-rgvrgfsf
-efergrgr
-hello vinay 
+GIT CHEAT SHEET
+-----------------------------------------------------
+1. git --version
+2. git --clone <url>
+3. git add . --> all the files, git add <file name>
+4. git status
+5. git 
+
